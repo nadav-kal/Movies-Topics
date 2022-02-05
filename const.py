@@ -1,0 +1,6 @@
+NUM_OF_TOPICS = 10
+NUM_OF_ITER = 50
+
+TOTAL_MOVIES = 7000
+API_PAGE_FILE_NAME = "api_page.txt"
+
